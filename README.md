@@ -1,6 +1,6 @@
 ## Welcome to TeacherTalley's GitHub pages
 
-I teach Data Structures and Assembly Language Programming at the University of Central Arkansas.
+I teach Data Structures,Assembly Language Programming, and Introduction to Data Science at the University of Central Arkansas.
 
 Do you want to learn how to use GitHub in 10 minutes? [Hello World](https://guides.github.com/activities/hello-world/)
 
